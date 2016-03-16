@@ -1,0 +1,32 @@
+{
+  "name": "knapsack",
+  "version": "0.0.0",
+  "description": "The Knapsack Problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.js -R spec"
+  },
+  "dependencies": {
+    "commander": "^2.5.0"
+  },
+  "devDependencies": {
+    "travis-build-tools": "^1.0.28",
+    "chai": "^3.2.0",
+    "glob": "^5.0.0",
+    "mocha": "^2.2.5",
+    "sinon": "^1.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wparad/Knapsack.git"
+  },
+  "keywords": [
+    "Knapsack Problem"
+  ],
+  "author": "Warren Parad <wparad@gmail.com> (http://wparad.github.io)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/wparad/Knapsack/issues"
+  },
+  "homepage": "https://github.com/wparad/Knapsack#readme"
+}
